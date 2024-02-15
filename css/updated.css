@@ -1,0 +1,6 @@
+.site-main-menu li.menu-item.menu-item-has-children.current-menu-item{
+    display: none;
+}
+.site-main-menu li.current-menu-item>a{
+    display: none;
+}
